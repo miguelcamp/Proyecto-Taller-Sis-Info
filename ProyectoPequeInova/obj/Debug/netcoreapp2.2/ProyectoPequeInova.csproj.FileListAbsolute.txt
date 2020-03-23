@@ -1,0 +1,16 @@
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\ProyectoPequeInova.deps.json
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\ProyectoPequeInova.runtimeconfig.json
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\ProyectoPequeInova.runtimeconfig.dev.json
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\ProyectoPequeInova.dll
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.csprojAssemblyReference.cache
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.RazorAssemblyInfo.cache
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.RazorAssemblyInfo.cs
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.AssemblyInfoInputs.cache
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.AssemblyInfo.cs
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.RazorTargetAssemblyInfo.cache
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\ProyectoPequeInova.pdb
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.dll
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\obj\Debug\netcoreapp2.2\ProyectoPequeInova.pdb
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\default.LAPTOP-PEHQVPE3\source\repos\ProyectoPequeInova\ProyectoPequeInova\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
